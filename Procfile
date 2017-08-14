@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT Phanvandan.wsgi:application
+web: waitress-serve --port=$PORT phanvandanproject.wsgi:application
