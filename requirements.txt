@@ -9,7 +9,7 @@ dj-static==0.0.6
 python-social-auth==0.2.1
 django-bootstrap-form==3.2
 configparser==3.5.0
-mysql-python
+mysql-python==1.2.3
 enum34==1.0.4
 psycopg2==2.6.1
 pytz==2015.7
